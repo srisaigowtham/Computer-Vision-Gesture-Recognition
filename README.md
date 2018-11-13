@@ -9,3 +9,7 @@ This project was done using MATLAB. Though modern gesture recognition using comp
 * User should place their hand at the same level as that of their face (This could be improved)
 
 See the pictures for better understanding
+
+-->Source code can be found inside Final Project folder
+-->Output for various gestures can be found in seperate folders inside Final Project folder
+-->Inside output folders, all the image results shown are outputs at the end of steps followed in the algorithm.
